@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaikalBaiqunni
 - 👀 I’m interested in Control design, crypto currencies (blockchain), and artificial intelligence
-- 🌱 I’m currently learning Data-driven control and multi-agents systems
+- 🌱 I’m currently learning Data-driven control, reinforcement learning and multi-agents systems
 - 📫 How to reach me haikaru.noriyuki@gmail.com
 
 <!---
